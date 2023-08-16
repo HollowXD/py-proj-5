@@ -1,0 +1,11 @@
+click
+Flask
+Flask-SQLAlchemy==2.5.1
+greenlet
+itsdangerous
+Jinja2
+MarkupSafe
+psycopg2-binary
+SQLAlchemy==1.4.22
+Werkzeug
+Flask-DebugToolbar
